@@ -1,0 +1,5 @@
+C:\Users\mklos\Desktop\softbay\drag\drag\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\mklos\Desktop\softbay\drag\drag\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\mklos\Desktop\softbay\drag\drag\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\mklos\Desktop\softbay\drag\drag\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\mklos\Desktop\softbay\drag\drag\BackEnd\obj\Debug\BackEnd.pdb
